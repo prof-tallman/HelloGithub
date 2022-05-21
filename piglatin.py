@@ -28,7 +28,7 @@ class SimplifiedPiglatin:
         # translate words one at a time, adding a space at the end of each word
         piglatin_phrase = ''
         for word in english_phrase.split():
-            if word[0] in Translator.vowels:
+            if word[0] in SimplifiedPiglatin.vowels:
                 piglatin_phrase += word + "quay" + " "
             else:
                 piglatin_phrase += word[1:] + word[0] + "ay" + " "
