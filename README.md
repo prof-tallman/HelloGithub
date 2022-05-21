@@ -26,5 +26,7 @@ python translator.py "ellohay rytay histay" english
 
 ## Testing
 The piglatin module contains a short unit test that verifies the object translates from English to Pig Latin correctly and vice-versa.
-English: `"ice cream is the best thing since sliced bread"`
-Piglatin: `"icequay reamcay isquay hetay estbay hingtay incesay licedsay readbay"`
+```
+English: "ice cream is the best thing since sliced bread"
+Piglatin: "icequay reamcay isquay hetay estbay hingtay incesay licedsay readbay"
+```
