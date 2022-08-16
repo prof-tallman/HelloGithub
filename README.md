@@ -1,4 +1,4 @@
-# SampleRepo
+# HelloGithub
 Example of a basic software repository
 
 ## Purpose
