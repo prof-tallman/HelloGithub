@@ -1,5 +1,5 @@
 # HelloGithub
-Example of a basic software repository
+Example of a basic software repository.
 
 ## Purpose
 Implements a simplified Pig Latin translator that was designed for the English language. It assumes that any message is written in all lowercase and only contains letters and spaces. Punctuation will not be translated correctly.
